@@ -54,7 +54,7 @@ for ([initialization]; [condition]; [iteration]) {
 - initialization
   - An expression (including assignment expressions) or variable declaration. Typically used to initialize a counter variable. This expression may optionally declare new variables with the var keyword
 - Condition
-  - An expression evaluated before each loop iteration. If this expression evaluates to true, statement is executed
+      - An expression evaluated before each loop iteration. If this expression evaluates to true, statement is executed
 - Iteration
   - A statement executed at the end of each iteration. Typically, this will involve incrementing or decrementing a counter, bringing the loop ever closer to its end
 - loopBody
